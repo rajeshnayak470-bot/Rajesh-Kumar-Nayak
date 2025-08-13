@@ -41,4 +41,5 @@ Passionate about building personalized, data-driven marketing journeys that deli
 
 ## 🎓 Certifications
 
-- **Salesforce Marketing Cloud Email Speciali**
+- **Salesforce Marketing Cloud Email Specialist**
+- **Salesforce Marketing Cloud Administrator**
